@@ -1,43 +1,50 @@
 ## curriculo
 
 # Adelmon Souza da Silva
-Recife/PE
+Porto/Portugal
 
 ---
 
 ## ... Futuro Programador
 
 
-**Telefone:** (81) 99857-7174
+** Telefone:** +351 937 458 230
 
-**E-mail:** adelmonssilva@gmail.com
+** E-mail:** adelmonssilva@gmail.com
 
-**Linkedin:** [https://www.linkedin.com/in/adelmonsouza/](https://www.linkedin.com/in/adelmon-souza-73058b2b/)
+** Linkedin:** [https://www.linkedin.com/in/adelmonsouza/](https://www.linkedin.com/in/adelmon-souza-73058b2b/)
 
-**Github:** adelmonsouza
+** Github:** adelmonsouza
 
-**Skype:** adelmon.souza
+** Skype:** adelmon.souza
 
-**Inglês:** Intermediário
+** Inglês:** Intermediário
 
 
 ---
 
 ## Competências
 
-**BackEnd:**
+** BackEnd:**
 
-* Python(UFPE).
+* CSharp(Dio / Rumos - Aprendendo)
+* Java(Dio/MV/Udemy/Accenture)
 * NodeJS(Udemy).
+* Python(UFPE).
 
 **FrontEnd:**
 
-* HTML5/CSS3(Udemy).
+* HTML5/CSS3/JavaScript(Udemy).
 
-**Banco de Dados:**
+** Banco de Dados:**
 
 * MySQL(Udemy).
 
+** Cloud:**
+
+*Azure(Estudando para a Cert. AZ900).
+
+ 
 ---
 
 ## Informações adicionais
@@ -47,26 +54,46 @@ Recife/PE
 * Prazer em passar conhecimento adiante.
 * Criatividade.
 * Determinação e responsabilidade.
-* Facilidade para trabalhar em grupo
+* Facilidade para trabalhar em equipe
 
 ---
 
 ## Experência Profissional
 
 
-* 2017/Dias Atuais - ** Um Telecom **
+* 2021/Atual - ** Wondercom, Project Management and Telecommunications ** - PT
 
-> Atualmente trabalho no NOC como Técnico de suporte jr. 
+> Técnico de Comunicações (Field Service)
 
-* 2010/2017 - ** Claro Brasil **
 
-> Atuei como Auxiliar técnico, manutenção da rede hfc ( internet/voip/tv digital).
+* 2019/2020 - ** MV Sistemas ** - BR
 
-* 2009/2010 - ** Contax **
+> Junior Support Analyst 
+
+
+* 2019/2020 - ** Unimed Recife ** - BR
+
+> Auxiliar de Suporte Técnico III 
+
+
+* 2017/2019 - ** Um Telecom ** - BR
+
+> Técnico de suporte jr (NOC). 
+
+
+* 2010/2017 - ** Claro Brasil ** - BR
+
+> Auxiliar técnico ( internet/voip/tv digital).
+
+
+* 2009/2010 - ** Contax ** - BR
 
 > Atendimento como Técnico de informática. 
+
+
 ---
 
 ## Formação
 
 * **Graduação** - Sistemas de Informação pela Universidade Federal de Pernambuco (UPFE) - **[Cursando]**
+* **12º ano** - Contabilidade pela Escola Professor Jordão Emerenciano (EPJE) - **[Concluído]**
